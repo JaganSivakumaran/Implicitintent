@@ -21,7 +21,7 @@ Developed by: Jagan S
 Registeration Number : 21222104
 */
 
-activity_main.xml
+## activity_main.xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
@@ -84,8 +84,9 @@ startActivity(intent);
 
 ## OUTPUT
 
-https://user-images.githubusercontent.com/127651217/264236951-1682f4f4-8de3-4ca3-9308-aea5121628c6.png.
-https://user-images.githubusercontent.com/127651217/264237041-391483a3-0fc2-415a-93c6-ba3f99a7e6b0.png.
+![image](https://github.com/JaganSivakumaran/Implicitintent/assets/134905062/955b32ca-86c8-422d-916c-3de42146566e)
+
+![image](https://github.com/JaganSivakumaran/Implicitintent/assets/134905062/670ba8b6-104d-4730-bdb9-1493176fd99c)
 
 
 
