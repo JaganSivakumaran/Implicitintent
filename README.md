@@ -55,7 +55,7 @@ app:layout_constraintVertical_bias="0.218" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 
-MainActivity.java
+## MainActivity.java:
 
 package com.example.ex3;
 import androidx.appcompat.app.AppCompatActivity;
@@ -84,9 +84,9 @@ startActivity(intent);
 
 ## OUTPUT
 
-(https://github.com/JaganSivakumaran/Implicitintent/assets/134905062/c627e032-1424-4d03-a50b-18f29039d3c8)
+https://user-images.githubusercontent.com/127651217/264236951-1682f4f4-8de3-4ca3-9308-aea5121628c6.png
 
-(https://github.com/JaganSivakumaran/Implicitintent/assets/134905062/40de25aa-9d2a-423a-8569-04ee76a78f6a)
+https://user-images.githubusercontent.com/127651217/264237041-391483a3-0fc2-415a-93c6-ba3f99a7e6b0.png
 
 
 
