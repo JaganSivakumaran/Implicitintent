@@ -84,9 +84,9 @@ startActivity(intent);
 
 ## OUTPUT
 
-![image](https://github.com/JaganSivakumaran/Implicitintent/assets/134905062/955b32ca-86c8-422d-916c-3de42146566e)
+(https://github.com/JaganSivakumaran/Implicitintent/assets/134905062/955b32ca-86c8-422d-916c-3de42146566e)
 
-![image](https://github.com/JaganSivakumaran/Implicitintent/assets/134905062/670ba8b6-104d-4730-bdb9-1493176fd99c)
+(https://github.com/JaganSivakumaran/Implicitintent/assets/134905062/670ba8b6-104d-4730-bdb9-1493176fd99c)
 
 
 
