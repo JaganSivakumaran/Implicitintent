@@ -18,7 +18,7 @@ Latest Version Android Studio
 /*
 Program to print the text “Implicitintent”.
 Developed by: Jagan S
-Registeration Number : 21222104
+Registeration Number : 212221040061
 */
 
 ## activity_main.xml
@@ -79,7 +79,6 @@ Intent intent=new Intent(Intent.ACTION_VIEW, Uri.parse(url));
 startActivity(intent);
 });
 } }
-
 ```
 
 ## OUTPUT
