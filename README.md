@@ -84,9 +84,8 @@ startActivity(intent);
 
 ## OUTPUT
 
-https://user-images.githubusercontent.com/127651217/264236951-1682f4f4-8de3-4ca3-9308-aea5121628c6.png
-
-https://user-images.githubusercontent.com/127651217/264237041-391483a3-0fc2-415a-93c6-ba3f99a7e6b0.png
+https://user-images.githubusercontent.com/127651217/264236951-1682f4f4-8de3-4ca3-9308-aea5121628c6.png.
+https://user-images.githubusercontent.com/127651217/264237041-391483a3-0fc2-415a-93c6-ba3f99a7e6b0.png.
 
 
 
