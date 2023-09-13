@@ -83,10 +83,8 @@ startActivity(intent);
 
 ## OUTPUT
 
-(https://github.com/JaganSivakumaran/Implicitintent/assets/134905062/955b32ca-86c8-422d-916c-3de42146566e)
-
-(https://github.com/JaganSivakumaran/Implicitintent/assets/134905062/670ba8b6-104d-4730-bdb9-1493176fd99c)
-
+![image](https://github.com/JaganSivakumaran/Implicitintent/assets/134905062/810e1d20-f2ed-41e4-92d8-17b14f6ad29f)
+![image](https://github.com/JaganSivakumaran/Implicitintent/assets/134905062/71392dd0-7143-40e3-bb06-3d253a07fe07)
 
 
 
